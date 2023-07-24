@@ -1,5 +1,9 @@
 # vue-login-signup-ui
 
+### Complete Tutorial
+See [Create Login Signup UI Screens in Vue 2 with Bootstrap 5](https://www.positronx.io/create-login-signup-ui-screens-in-vue-js-with-bootstrap/).
+
+
 ## Project setup
 ```
 npm install
@@ -20,5 +24,4 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
